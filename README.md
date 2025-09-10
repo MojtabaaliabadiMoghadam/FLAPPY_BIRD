@@ -15,25 +15,6 @@ Score tracking system
 
 Simple and lightweight (no frameworks)
 
-🖼️ Demo
-
-
-(Add your screenshot here)
-
-📂 How to Run
-
-Clone this repository:
-
-git clone https://github.com/your-username/flappy-bird-js.git
-
-
-Open index.html in your browser.
-
-Start playing 🎉
-
-🎯 Controls
-
-Space / Click → Jump
 
 🛠️ Technologies Used
 
